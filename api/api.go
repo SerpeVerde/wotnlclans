@@ -291,7 +291,7 @@ func GetClanData(includedClans ...[]string) error {
 
 // DutchWords is a list of words and small setences that are usualy in dutch clan descriptions
 var DutchWords = []string{
-	"verplicht", "menselijkheid", "pannenkoeken", "leeftijd", "minimale", "opzoek", "beginnende", "nederlandse", "spelers", "voldoen", "wij zijn", "gezelligheid", "ons op", "Kom erbij", "minimaal", "gemiddelde", "plezier", "samenwerking", "samenwerken", "aangezien", "toegelaten", "goedkeuring", "gebruik", "tijdens",
+	"richiesto", "percentuale", "vittoria", "età", "minimo", "alzare lo sguardo", "novizio", "italiano", "giocatori", "incontrare", "siamo", "socializzare", " noi "," Unisciti a noi "," minimo "," medio "," piacere "," cooperazione "," cooperazione "," italia "," permesso "," approvazione "," uso "," durante ",
 }
 
 // BannedWords is a list of words that do usualy not exsits in a dutch clan descriptions
